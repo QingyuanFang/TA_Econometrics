@@ -1,7 +1,7 @@
-# Material for: AS.180.633 Econometrics - TA Review Session
+# AS.180.633 Econometrics - TA Review Session
 
-Qingyuan (pronounced as ``Ching Yoo-ahn'') Fang. He/Him/His
+- Qingyuan (pronounced as ``Ching Yoo-ahn'') Fang. He/Him/His
 
-Email: qfang6@jhu.edu
+- Email: qfang6@jhu.edu
 
-TA Material: https://github.com/QingyuanFang/TA_ElementsOfMacro/
+- TA Material: https://github.com/QingyuanFang/TA_Econometrics
