@@ -56,9 +56,11 @@ c = a + b;
 % Semicolons suppress output (useful to keep the command window clean)
 d = a*b;
 
-% Row vector vs column vector
+% Row vector vs column vector vs matrix
 x_row = [1, 2, 3, 4]; % comma
-x_col = [1; 2; 3; 4]; % colon
+x_col = [1; 2; 3; 4]; % semi-colon
+
+x_matrix = [1, 2; 3, 4]; 
 
 % Common constructors:
 z = zeros(3,2);     % 3x2 zeros
